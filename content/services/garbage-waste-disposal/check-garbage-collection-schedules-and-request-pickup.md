@@ -1,74 +1,23 @@
-# Check Garbage Collection Schedules and Request Pickup — Lapu-Lapu City
+# Check Garbage Collection Schedules and Request Pickup in Iloilo City
 
-The City Government of Lapu-Lapu manages **regular garbage collection** through the **City Environment and Natural Resources Office (CENRO)** and barangays. Residents and business owners are encouraged to follow the schedule and proper segregation rules.
+Garbage collection in Iloilo City is handled by the **General Services Office (GSO)**, which also operates the city's **Solid Waste Management Information System**.
 
----
+## Collection schedules
 
-## 1) Regular Garbage Collection
+Collection runs on assigned truck routes per area. The GSO asks residents to put out their waste at the proper time so they do not miss the truck for their area, to avoid uncollected trash.
 
-**How it works**
+> The GSO does not publish a citywide schedule online. Ask your barangay hall for your area's truck schedule, or call City Hall at (033) 333-1111 and ask for the General Services Office.
 
-- Collection schedules vary **by barangay** (usually **every other day** or **3 times per week**).
-- Trucks assigned to barangays cover **household waste**, **biodegradable**, and **residual/non-recyclable** garbage.
-- Segregation at source is **mandatory** — separate biodegradable, recyclable, residual, and special/hazardous waste.
+## Garbage collection fee
 
-**Where to check schedules**
+The city raised its garbage collection fee in February 2024 to cover the rising cost of managing solid waste. Ask the GSO or your barangay for the current rate.
 
-1. **Barangay Hall** — each barangay posts its official collection schedule.
-2. **Barangay Facebook Pages** — most update residents when trucks are delayed or rescheduled.
-3. **City Information Office (CIO)** or **CENRO** announcements for citywide advisories (e.g., during holidays or typhoon disruptions).
+## Where the waste goes
 
-> Tip: Post the collection calendar on your fridge or gate to remind the household which days to take bins out.
+The city's sanitary landfill is in **Calajunan, Mandurriao**. In 2024 it received an average of 304 tons of garbage a day, and projections then said it would reach full capacity by 2026. This is why the city asks households to segregate waste (see [Waste Segregation](/learn-proper-waste-segregation-and-disposal-methods)).
 
----
+## Requesting a special pickup
 
-## 2) Special Garbage Pickup (Bulk or Non-Routine Waste)
+For bulky waste or uncollected garbage, contact your barangay hall first, then the GSO through City Hall.
 
-For **bulk waste** (e.g., furniture, appliances, construction debris, yard trimmings), collection is not part of the regular schedule.
-
-**How to request**
-
-1. Visit your **Barangay Hall** or contact the **Barangay Environment Committee**.
-2. Provide details: type of waste, estimated volume, and address.
-3. Barangay coordinates with **CENRO** for scheduling a **special truck pickup**.
-4. Some barangays may require a **minimal fee** for bulk or special disposal.
-
-**Items usually needing special pickup**
-
-- Large furniture, mattresses, appliances, e-waste
-- Construction/demolition debris
-- Hazardous household waste (paints, chemicals, batteries)
-
----
-
-## 3) Contact Information
-
-- **City Environment and Natural Resources Office (CENRO)**  
-  Lapu-Lapu City Hall, Government Complex, Brgy. Pajo  
-  Phone: (032) 340-0004 (City Hall trunkline, ask for CENRO)  
-  Updates: via **City Information Office** FB page
-
-- **Barangay Halls** — each barangay has an Environment/ Solid Waste desk for local schedules and pickup requests.
-
----
-
-## 4) Quick Tips for Residents
-
-- Put garbage out **only on collection day**, early morning or night before.
-- Use durable, closed containers to prevent animal scattering.
-- For recyclables, check if your barangay has a **Materials Recovery Facility (MRF)** or partner junkshop.
-- During **rainy season/typhoons**, expect **schedule adjustments** — follow CIO or barangay announcements.
-- Avoid burning waste (strictly prohibited under RA 9003 / Clean Air Act).
-
----
-
-## 5) Businesses & Establishments
-
-- Businesses must comply with **segregation** and may need to contract **accredited private haulers** for bulk/industrial waste.
-- Keep proof of disposal (receipts/hauling contracts) for compliance inspections by CENRO.
-
----
-
-### Key Reminder
-
-Following your barangay’s **garbage collection schedule** and properly requesting **special pickups** keeps the city clean and prevents flooding, pests, and health risks.
+**Sources:** [Iloilo City increases garbage collection fee (Manila Times)](https://manilatimes.net/2024/02/20/regions/iloilo-city-increases-garbage-collection-fee/1933206/amp) · [68 tons of waste collected in cleanup (SunStar)](https://www.sunstar.com.ph/iloilo/local-news/68-tons-of-waste-collected-in-cleanup) · [Iloilo City Government directory](https://iloilocity.gov.ph/iloilo-city-government-directory/)

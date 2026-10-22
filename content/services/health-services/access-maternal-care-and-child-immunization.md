@@ -1,49 +1,22 @@
-# Access Maternal Care & Child Immunization — Lapu-Lapu City
+# Access Maternal Care and Child Immunization in Iloilo City
 
-The City Health Office (CHO) and barangay health centers provide **prenatal care**, **family planning**, and **free routine child immunization** for residents.
+Maternal and child health services in Iloilo City are provided by the **Office of the City Health Officer** through its district health centers and the **Lapaz Maternity and Reproductive Health Center**.
 
----
+## Where to go
 
-## Maternal Care (Prenatal & Related Services)
+- **Lapaz Maternity Clinic / Lapaz Maternity and Reproductive Health Center**
+- District health centers in **Molo, Jaro I, Jaro II, Mandurriao, Lapaz, Arevalo, Tanza** and **Bo. Obrero**
+- **City Health Office**, 2nd floor, Iloilo City Hall (for vaccination and referrals)
 
-| Service                                                             | Where                       | Schedule                                                               | Requirements                                    | Cost                                                       |
-| ------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------- |
-| Prenatal check-ups (by midwife/nurse; physician referral as needed) | **Barangay Health Centers** | Mon–Fri (typical clinic hours; varies by center)                       | Prenatal record (issued/updated at first visit) | **Free**                                                   |
-| Family Planning counseling & methods                                | **Barangay Health Centers** | Mon–Fri **8:00 AM–4:00 PM**; Sat **8:00 AM–1:00 PM** (except holidays) | Personal appearance for counseling              | **Free** counseling (methods per DOH program availability) |
+## Child immunization
 
-**Tip:** Bring any previous prenatal card/records and a valid ID. If you’re new, staff will register you and issue the needed record at the health center.
+Free vaccines are offered at the city's health centers. Routine childhood immunization follows the national Expanded Program on Immunization, and the city has run free flu vaccination for residents aged 10 and above.
 
----
+## Before you go
 
-## Child Immunization (EPI)
+1. Go to the health center for your barangay.
+2. Ask for the schedule for prenatal care and immunization.
 
-Routine childhood vaccines are provided **free** under the Expanded Program on Immunization (EPI).
+> The city does not publish current schedules, requirements or services by health center online. Contact your district health center or call City Hall at (033) 333-1111 to confirm before visiting.
 
-| Age/Visit                          | Vaccines (examples)                                                        | Where                       | Regular Day/Time                                  | Requirements                          | Cost     |
-| ---------------------------------- | -------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------- | ------------------------------------- | -------- |
-| Birth–12 months (per DOH schedule) | **BCG**, **Pentavalent**, **OPV/IPV**, **MMR**, **Hepatitis B**, **PCV13** | **Barangay Health Centers** | **Wednesdays, 8:00 AM–4:00 PM** (except holidays) | **ECCD card** (issued on first visit) | **Free** |
-
-> First time? The health worker will **issue an ECCD card** and guide you on next-dose return dates.
-
----
-
-## How to Avail (Quick Steps)
-
-1. **Go to your Barangay Health Center** during clinic hours (or the posted EPI day for vaccines).
-2. **Register/Update your record:** Prenatal record for mothers, **ECCD card** for children (issued if first time).
-3. **Receive service:** Prenatal assessment, counseling (and TT vaccine/supplements per program), or child vaccination per EPI schedule.
-4. **Book your return date** for follow-ups and next vaccine doses as advised by the health staff.
-
----
-
-## Notes & Extras
-
-- **Medical consultations** at health centers are **free** (Mon–Fri, 8:00 AM–5:00 PM; center schedules apply). Useful if you need a doctor’s assessment alongside prenatal care.
-- The CHO and health centers also run **mother’s classes** and promote **facility-based delivery**; ask your midwife for schedules.
-
----
-
-**References**
-
-- [Lapu-Lapu City Government – Services](https://lapulapucity.gov.ph)
-- [Department of Health – Expanded Program on Immunization](https://doh.gov.ph)
+**Sources:** [Iloilo City Government directory](https://iloilocity.gov.ph/iloilo-city-government-directory/) · [Iloilo City health cautions public following dengue death (PNA)](https://alpha.pna.gov.ph/articles/1229474)

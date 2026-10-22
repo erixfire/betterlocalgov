@@ -1,81 +1,25 @@
-# Join Health Programs — Lapu-Lapu City (Nutrition, Dengue Control, TB Treatment)
+# Join Health Programs (Nutrition, Dengue Control, TB Treatment) in Iloilo City
 
-Below are city-led and national programs you can join through your **Barangay Health Center** and the **City Health Office (CHO)**.
+Public health programs in Iloilo City are run by the **Office of the City Health Officer** with the **Iloilo City Epidemiology and Surveillance Unit**, which tracks disease outbreaks.
 
----
+## Dengue
 
-## 1) Nutrition Programs
+The City Health Office urges residents to keep up prevention measures, such as clearing stagnant water. In 2024 the city prepared a 25-bed hydration unit at the **La Paz Maternity and Reproductive Health Center** for dengue patients.
 
-**What’s offered**
+## Tuberculosis
 
-- Supplementary feeding for day-care children.
-- Community nutrition activities such as breastfeeding promotion, growth monitoring, and health education.
-- Special events during Nutrition Month (July) and city-wide wellness programs.
+TB treatment in the Philippines follows the national **TB-DOTS** program. Ask your district health center about screening and treatment.
 
-**Who can join**
+## Nutrition
 
-- Day-care children and families identified by barangays or CSWD.
-- Residents may also take part in open city nutrition events.
+Day care children aged three to five can benefit from the supplementary feeding program run with the **City Social Welfare and Development Office**. See [Enroll Children in Daycare](/enroll-children-in-lgu-daycare-or-preschool-programs).
 
-**How to join**
+## How to join
 
-1. Visit your **Barangay Health Center** or ask the **Barangay Nutrition Scholar (BNS)** about ongoing feeding programs.
-2. Join community activities and city-wide nutrition events announced by the **City Health Office (CHO)** or City Information Office.
+1. Visit your district health center.
+2. Tell the staff which program you need.
+3. They will tell you the schedule and what to bring.
 
-**Cost:** Free for eligible beneficiaries.
+> The city does not publish a program-by-program schedule online. Call City Hall at (033) 333-1111 to ask for the City Health Office.
 
----
-
-## 2) Dengue Control Programs
-
-**What’s offered**
-
-- Community clean-up drives under the **ABKD (Aksyon Barangay Kontra Dengue)** program.
-- Daily “4 o’clock habit” — searching and destroying mosquito breeding sites.
-- Misting, fogging, and entomological surveys led by the CHO.
-- Information campaigns during Dengue Awareness Month and rainy season.
-
-**How to join**
-
-1. Take part in barangay clean-up drives and follow the **4S strategy** (Search & Destroy, Self-protection, Seek early consultation, Support fogging/misting).
-2. Cooperate when CHO teams conduct **misting** or **house-to-house larval checks**.
-
-**Cost:** Free; no registration needed.
-
----
-
-## 3) TB Treatment (NTP TB-DOTS)
-
-**What’s offered**
-
-- Free consultations, diagnostic tests, and full course of anti-TB medicines under the **National Tuberculosis Program (NTP)**.
-- Supervised treatment through the **Directly Observed Therapy Short-course (DOTS)** approach.
-
-**Where**
-
-- Lapu-Lapu City Health Office (DOTS facility) and affiliated barangay health centers.
-
-**How to join**
-
-1. Go to your **Barangay Health Center** or the **CHO DOTS Clinic** for TB screening.
-2. If diagnosed, you will be enrolled in DOTS — treatment and medicines are given for free.
-3. Regular follow-up visits will be scheduled to monitor your recovery.
-
-**Cost:** Free for all TB patients.
-
----
-
-## Contact & Updates
-
-- **Barangay Health Centers** — First point of contact for nutrition, dengue, and TB programs.
-- **Lapu-Lapu City Health Office (CHO)** — Main office for program schedules and services.
-- **City Information Office** — Posts updates on city-wide campaigns and health events.
-
----
-
-### Quick Tips
-
-- Bring a **valid ID** and your **barangay health record** (if you already have one).
-- For TB symptoms (cough for 2 weeks or more, weight loss, night sweats), seek screening immediately.
-- Join community clean-up drives and practice the 4 o’clock habit to prevent dengue.
-- Attend barangay nutrition events and feeding programs for your children’s growth and wellness.
+**Sources:** [Iloilo City health cautions public following dengue death (PNA)](https://alpha.pna.gov.ph/articles/1229474) · [Iloilo City Government directory](https://iloilocity.gov.ph/iloilo-city-government-directory/)
