@@ -1,41 +1,32 @@
-# Lapu-Lapu City Government: Free Health Services
+# Get Free Check-ups, Basic Medicines and Vaccines in Iloilo City
 
-The Lapu-Lapu City Government offers free **check-ups, medicines, and vaccines** through the City Health Office (CHO), barangay health centers, and partner programs.
+The **City Health Office (CHO)** and the district health centers provide health services to Iloilo City residents.
 
----
+## Free medicines
 
-## 1. Free Medical Check-ups
+| Program       | What it covers                                                                                                          | Where                                                                                                                                                                                |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Maayo Med** | Free medicines. Running since August 15, 2025. More than 63,000 Ilonggos were served in the administration's first year | Pharmacies in all nine District Health Centers and the City Health Office main                                                                                                       |
+| **MediSen+**  | Free maintenance medicines for hypertension and diabetes                                                                | Registered senior citizens and PWDs who live in Iloilo City. Present your OSCA or PWD ID. Bedridden patients can get medicines delivered after a caregiver tells health center staff |
 
-| Service              | Where                        | Schedule                                     | Requirements                                              |
-| -------------------- | ---------------------------- | -------------------------------------------- | --------------------------------------------------------- |
-| General consultation | City/Barangay Health Centers | Mon–Fri, 8 AM–5 PM (varies by health center) | Individual Treatment Record (ITR) — issued on first visit |
+## Vaccines
 
----
+The CHO offered free flu vaccines starting November 21, 2024, for everyone aged 10 and above. Go to your nearest district health center, or the vaccination site at the **City Health Office, 2nd floor, Iloilo City Hall**.
 
-## 2. Free Basic Medicines
+## Health facilities
 
-| Service                                          | Where                                    | Schedule           | Requirements                                                                                     |
-| ------------------------------------------------ | ---------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
-| Free basic medicines                             | City Health Office (CHO) pharmacy        | Mon–Fri, 8 AM–5 PM | Doctor’s prescription and/or referral from hospital/clinic                                       |
-| Medicines for indigent seniors (MAIFIPP program) | Partner pharmacies (Basak, Carajay, Ibo) | Pharmacy hours     | Must be an indigent senior citizen, bona fide resident; coverage caps (e.g., ₱3,000 out-patient) |
+The Office of the City Health Officer operates:
 
----
+- Health centers in **Molo, Jaro I, Jaro II, Mandurriao, Lapaz, Arevalo, Tanza** and **Bo. Obrero**
+- **Lapaz Maternity Clinic**
+- **Iloilo City Epidemiology and Surveillance Unit**
+- Two **molecular laboratories**
 
-## 3. Free Vaccines & Immunization
+## Dialysis and care centers
 
-| Beneficiary       | Vaccine/Service                                          | Where                        | Schedule                        | Requirements                                             |
-| ----------------- | -------------------------------------------------------- | ---------------------------- | ------------------------------- | -------------------------------------------------------- |
-| Children          | BCG, Pentavalent, OPV/IPV, MMR, Hepatitis B, PCV13 (EPI) | Barangay Health Centers      | Typically Wednesdays, 8 AM–4 PM | ECCD card (first-timers can get one onsite)              |
-| Pregnant women    | Tetanus Toxoid vaccine + supplements                     | Barangay Health Centers      | During prenatal services        | Proof of pregnancy, ECCD/record                          |
-| Animal bite cases | Anti-rabies vaccine (first dose free)                    | Animal Bite Treatment Center | Clinic hours                    | Proof of Lapu-Lapu residency (e.g., voter’s certificate) |
+- **USWAG Dialysis Center:** San Isidro, Jaro and East Baluarte, Molo
+- **iCare branches:** Balantang (Jaro), Calumpang (Molo), Gaisano City Center, Nabitasan (Lapaz), Sooc (Arevalo) and Ungka (Jaro)
 
----
+> Schedules for check-ups and routine immunization, and what to bring, are not published online. Call or visit your district health center to confirm. The main City Hall line is (033) 333-1111.
 
-## How to Avail
-
-1. **Check-ups** → Go to your Barangay Health Center or City Health Office; first-timers will be issued an ITR.
-2. **Medicines** → Bring a doctor’s prescription/referral; submit at CHO pharmacy window.
-3. **Child immunization** → Visit your barangay health center on immunization day with ECCD card.
-4. **Pregnancy services** → Attend prenatal visits at the barangay health center for free vaccine and supplements.
-5. **Anti-rabies** → Report to the Animal Bite Treatment Center; bring proof of residency.
-6. **Senior citizen medicines** → Visit participating partner pharmacies; follow MAIFIPP guidelines.
+**Sources:** [Free medicine program in Mayor Raisa's first year (IBS Digital)](https://www.ibsdigital.net/more-than-63000-ilonggos-benefited-from-free-medicine-program-in-mayor-raisas-first-year/) · [Iloilo City Government directory](https://iloilocity.gov.ph/iloilo-city-government-directory/)

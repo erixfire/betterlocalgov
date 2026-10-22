@@ -1,116 +1,24 @@
-# Access Educational Support Programs from the LGU — Lapu-Lapu City
+# Access Educational Support Programs from the Iloilo City Government
 
-Below are **city-led** or **LGU-facilitated** programs you can use for study support: free school supplies, e-library access, student employment (SPES) via PESO, scholarships, and cash/education assistance. Links point to official pages or recent announcements.
+The Iloilo City Government supports students through scholarships, free school supplies and technical-vocational training.
 
----
+## Programs
 
-## 1) Free School Supplies (SEF-funded)
+| Program                                                                  | What it offers                                          | Who it is for                                                                                                                         |
+| ------------------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Uswag Scholarship**                                                    | Cash assistance of ₱5,000 per semester (₱10,000 a year) | Deserving, indigent college students who are Iloilo City residents. See [Apply for Local Scholarships](/apply-for-local-scholarships) |
+| **PWD Scholarship** (through the Persons with Disability Affairs Office) | Financial grant of ₱5,000 per semester                  | Persons with disability who are scholars                                                                                              |
+| **Free school supplies**                                                 | School supplies each June                               | Learners from Kindergarten to Grade 12 in public schools. The city reported more than 74,000 learners for one school year             |
+| **Technical Institute of Iloilo City**                                   | Vocational and technical courses                        | Students who prefer a vocational path. Campuses in **Molo** and **Bo. Obrero**                                                        |
 
-**What it is**
+## Youth leaving the 4Ps
 
-- The City provides **free school supplies** to public school learners using the **Special Education Fund (SEF)**, announced each school year with distribution schedules.
+In May 2026, Mayor Raisa Treñas said the city would help interested students who have aged out of the national 4Ps subsidy enter the Uswag Scholarship Program.
 
-**How to access**
+## How to apply
 
-1. Watch your school’s advisory and the **DepEd Lapu-Lapu** Division memos for **distribution schedules**.
-2. Learners (with parent/guardian) claim supplies at the school on the announced date.
+Application dates and forms are announced by the city government. Check the city's official channels or visit the City Hall directory (<https://iloilocity.gov.ph/iloilo-city-government-directory/>) to find the office for your program.
 
-**Links**
+> Amounts, beneficiary counts and requirements change between school years. Confirm the current terms with the city before applying.
 
-- DepEd Lapu-Lapu memo: **Distribution of School Supplies (SEF)** (2025 schedule) — depedlapulapu.net.ph
-- News: **City to distribute free school supplies** — SunStar Cebu (June 7, 2025)
-- City info posts often echo the distribution dates via DepEd/City channels.
-
----
-
-## 2) City e-Library (Free Study Space, Wi-Fi, Computers & Printing)
-
-**What it is**
-
-- A **government-run e-Library** offering **free internet, computer use, and printing** for students; open **daily 8:00 a.m.–12:00 midnight** at **Hoops Dome, Brgy. Gun-ob**.
-
-**How to access**
-
-1. Go to the **Lapu-Lapu City e-Library (Hoops Dome)** during operating hours.
-2. Sign the logbook; follow usage limits (to give everyone a turn).
-
-**Links**
-
-- SunStar: **E-Library reopens; open daily 8 a.m.–12 midnight** (July 26, 2025)
-- The POST: **City library reopens, free digital access & printing** (July 28, 2025)
-- Background: **City launched first gov’t e-Library** (2019) — Cebu Daily News
-
----
-
-## 3) Student Employment (SPES) via PESO Lapu-Lapu
-
-**What it is**
-
-- The **Special Program for the Employment of Students (SPES)** lets poor but deserving **students/OSYs (15–30)** work during breaks to earn and gain experience.
-- Implemented locally through the **Public Employment Service Office (PESO)** with DOLE.
-
-**How to access**
-
-1. Follow **PESO Lapu-Lapu City** on Facebook for **SPES application windows** and job fair advisories.
-2. Prepare IDs, school docs, and income/indigency proofs per announcement.
-3. Submit online or at the PESO office; attend orientation when shortlisted.
-
-**Links**
-
-- **PESO Lapu-Lapu City** Facebook page (official announcements)
-- DepEd/BLSS-YFD: **SPES 2025 guidelines & timelines**
-- City press: **PESO career fair / youth employment events** — City Information Office
-
----
-
-## 4) LGU-linked Scholarships & Incentives
-
-**What it is**
-
-- The City (and Congressional office) **periodically opens scholarship calls** or **educational incentives** for local students, separate from school-based grants.
-
-**How to access**
-
-1. Monitor the **Lapu-Lapu City Government / City Information Office** and the **Office of the Mayor / Congresswoman** for official **calls**.
-2. Prepare residency and academic documents; submit by deadline; attend screening/orientation.
-
-**Links (examples & history)**
-
-- News: **Lapu-Lapu City offers college scholarship to poor residents** — The Freeman/Philstar (program history)
-- Sample: **Cindi “Skwela” Scholarship** highlights via official pages (video updates)
-- Also check school-based options in-city (e.g., **LCIC scholarships**, **UC scholarships**) which can complement LGU aid.
-
----
-
-## 5) Educational / Cash Assistance (LGU-facilitated with DSWD)
-
-**What it is**
-
-- **Educational assistance pay-outs** (e.g., AICS) are nationally run by DSWD but are often **coordinated locally** with the **City** for venue and beneficiary management.
-
-**How to access**
-
-1. Watch announcements from **DSWD-7** and the **City Information Office** for **Lapu-Lapu payout schedules**.
-2. Bring student ID, enrollment proof, and required forms on your assigned date.
-
-**Links (context)**
-
-- SunStar Cebu: **Education assistance payout in Lapu-Lapu** (local coverage)
-- Cebu Daily News: **DSWD-7 educational assistance** (program overview & amounts)
-
----
-
-## Quick Directory
-
-- **City Information Office (Lapu-Lapu City)** — city-wide program announcements
-- **PESO Lapu-Lapu City** — SPES, job fairs, recruitment & youth work programs
-- **DepEd Lapu-Lapu Division** — school memos (SEF supplies, schedules)
-- **Lapu-Lapu City e-Library (Hoops Dome, Gun-ob)** — free study space & digital access
-
----
-
-## Tips to Maximize Support
-
-- **Stack benefits** where allowed: e.g., SEF school supplies **+** SPES stipend **+** school-based scholarship.
-- Keep a folder with **PSA Birth Cert**, **Barangay Residency**, **School ID**, **Report Cards/COE**, and **2x2 photos** ready.
-- Turn on notifications for **PESO** and **City Information** pages so you don’t miss application windows.
+**Sources:** [Over 74,000 students to receive free school supplies this June (SunStar)](https://www.sunstar.com.ph/iloilo/over-74000-students-to-receive-free-school-supplies-this-june) · [Treñas' Uswag Scholarship benefits over 29,000 Ilonggo students](https://iloiloelibrary.com/items/show/978) · [Iloilo City Government directory](https://iloilocity.gov.ph/iloilo-city-government-directory/)

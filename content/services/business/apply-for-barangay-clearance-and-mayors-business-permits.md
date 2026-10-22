@@ -1,65 +1,55 @@
-# How to Set Up a Business Partnership
+# Apply for a Business Permit in Iloilo City
 
-## Step 1: Register with SEC
+New businesses in Iloilo City apply for a **Mayor's Business Permit** online through the city's Business Permit and Licensing System (BPLS). The portal can also generate your **Barangay Clearance** as part of the application.
 
-**Prepare documents:**
+**Online portal:** <https://bpbc.ibpls.com/cityofiloiloiloilo> (a Google account login is available)
 
-- Partnership name (check via [SEC eSPARC](https://espac.sec.gov.ph/))
-- Notarized Articles of Partnership
-- IDs/TINs of partners, office address, capital structure
+---
 
-**File online** through [SEC eSPARC](https://espac.sec.gov.ph/) and pay fees.
+## Requirements (new application)
 
-**Output:** SEC Certificate of Recording + Approved Business Name
+1. Location plan or sketch of the business, plus a photo of the establishment's front.
+2. Proof of registration:
+   - **SEC** for corporations
+   - **DTI** for sole proprietors
+   - **CDA** for cooperatives
+3. Proof of right to use the property:
+   - **Owned:** Transfer Certificate of Title, Tax Declaration, or Real Property Tax receipt
+   - **Rented:** Lease contract, Memorandum of Agreement, or the owner's written consent with an affidavit of no rental
+4. Certificate of Occupancy **or** Fire Safety Inspection Certificate (FSIC) from the Bureau of Fire Protection.
+5. CCTV compliance under Regulation Ordinance No. 2023-085.
 
-## Step 2: Apply for Business Permit
+---
 
-Go to **Lapu-Lapu City BPLO** (Business Permit and Licensing Office).
+## Steps
 
-**Requirements:**
+1. Log in to the portal.
+2. Choose **Business Permit**, then **+ New Application**.
+3. Select **New** as the application type and your payment mode: **Annual**, **Bi-Annual** or **Quarterly**.
+4. Enter the tax year. Tick the box to generate a **Barangay Clearance**, or leave it unticked if you already have one.
+5. Fill in the business information, business operation and line-of-business sections.
+6. Upload the documents (see below), review the summary, then **Submit**. Use **Save as Draft** if you are not ready.
 
-- Unified Application Form
-- SEC Certificate of Registration + Articles of Partnership
-- Occupancy Permit (if owner) OR Lease Contract (if renting)
-- Community Tax Certificate (CTC)
+### Documents to upload
 
-Apply in person or online via [Lapu-Lapu Online Business Permit Portal](https://businesspermit.lapulapucity.gov.ph/).
+- Unified Application Form (UAF)
+- Declaration of Gross Receipts for the previous year
+- Fire Safety Inspection Certificate (FSIC)
+- Photo of the CCTV monitor
 
-> Note: Inspections may include zoning, sanitary, and fire safety checks.
+Use PDF for multi-page files. PDF or JPG is accepted, up to 10 MB per file.
 
-## Step 3: Register with BIR
+---
 
-File at the **BIR Revenue District Office (RDO)** where your office is located.
+## Where to get help
 
-- Fill out [BIR Form 1903](https://www.bir.gov.ph/images/1903%20Jan%202024.pdf)
-- Submit SEC Certificate + Articles of Partnership + valid IDs
-- Pay registration fee + Documentary Stamp Tax (DST)
+| Office                                                                                                     | Contact                                                      |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Business Permit and Licensing Division** — Iloilo City Business Center, Iloilo City Hall, Plaza Libertad | Mobile 0909 760 7108 · Facebook Messenger: _iloilocity bpid_ |
+| **Local Economic Development and Investment Promotions Office (LEDIPO)** — Iloilo City Business Center     | (033) 332 1368                                               |
 
-**Within 30 days of receiving BIR Certificate:**
+**Office hours:** Monday–Friday, 8:00 AM–5:00 PM.
 
-- Apply for Authority to Print Receipts (Form 1906) OR enroll in e-invoicing
-- Register your Books of Accounts
+> Fees depend on your line of business and are assessed by the city. They are not listed on the portal page; ask the Business Permit and Licensing Division.
 
-## Step 4: Register as Employer (if hiring)
-
-Enroll with:
-
-- [SSS](https://www.sss.gov.ph/)
-- [PhilHealth](https://www.philhealth.gov.ph/)
-- [Pag-IBIG](https://www.pagibigfund.gov.ph/)
-
-## Process Flow
-
-1. SEC name check + register via [SEC eSPARC](https://espac.sec.gov.ph/)
-2. Secure Barangay Certification + site/lease documents
-3. Apply for Business Permit at [Lapu-Lapu BPLO](https://businesspermit.lapulapucity.gov.ph/)
-4. File BIR Form 1903 → apply ATP → register books
-
-## Document Checklist
-
-- [ ] SEC Articles of Partnership + SEC Certificate
-- [ ] Lease Contract OR Occupancy/Building docs
-- [ ] Lapu-Lapu BPLO Unified Application Form + CTC
-- [ ] BIR Form 1903, IDs, ATP/Books
-
-With these steps, your partnership in Lapu-Lapu City will be fully compliant and ready to operate!
+**Source:** [Iloilo City Government — Business Permit](https://iloilocity.gov.ph/business-permit/)

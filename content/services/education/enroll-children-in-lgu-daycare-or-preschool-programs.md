@@ -1,78 +1,25 @@
-# Enroll Children in LGU Daycare or Preschool Programs — Lapu-Lapu City
+# Enroll Children in LGU Daycare or Preschool Programs in Iloilo City
 
-The Lapu-Lapu City Government, through the **City Social Welfare and Development Office (CSWDO)** and barangays, operates **daycare centers** and supports **public preschool education**.
+Iloilo City runs more than 200 **Early Childhood Care and Development (ECCD)** centers, also called day care centers. The city is also building more day care centers, nutrition centers and classrooms.
 
----
+## Who runs it
 
-## 1) LGU Daycare Programs
+The **Office of the City Social Welfare and Development (CSWDO)** has branches in **Molo** and **Jaro**. Day care centers are located in the barangays.
 
-**What’s offered**
+## Feeding program
 
-- Early childhood care and development for children aged **3–4 years old**.
-- Daily activities on socialization, basic learning skills, play-based lessons, and health/nutrition monitoring.
-- Free or minimal-cost supplementary feeding (depending on barangay program).
+Children aged three to five who are enrolled in day care centers can benefit from the supplementary feeding program. A DSWD report listed Iloilo City with the most beneficiaries among cities in Western Visayas (9,819 children, ₱15.37 million allocation; the report does not state the year).
 
-**Who can join**
+## Children with special needs
 
-- Children aged **3–4 years old** who are residents of the barangay.
-- Priority is often given to **indigent families** or those referred by barangay officials.
+The **RISEable SPED and Early Intervention Center** of the city government is in **Barangay Taal, Molo**. It offers early intervention and therapy rather than regular day care.
 
-**Requirements (typical)**
+## How to enroll
 
-- Child’s **birth certificate** (PSA copy or local civil registrar copy).
-- **Barangay clearance** or proof of residency.
-- 1×1 ID photo of the child (for records).
-- Filled-out **Daycare Enrollment Form** (available at the center).
+1. Go to the day care center in your barangay, or the CSWDO in Molo or Jaro.
+2. Ask about the current enrollment period and the documents they need.
+3. Follow the center's instructions for any health records or forms.
 
-**How to enroll**
+> The city has not published the age range, documents or enrollment schedule online. The details above are what is confirmed; ask CSWDO or your barangay center for the rest.
 
-1. Visit your **Barangay Daycare Center** or **Barangay Hall** to ask for the enrollment schedule.
-2. Submit required documents and fill out the enrollment form.
-3. Attend the orientation session for parents/guardians (usually held before classes start).
-
-**Cost:** Free (LGU-funded), though some barangays may request voluntary contributions for class materials.
-
----
-
-## 2) Public Preschool (Kindergarten)
-
-**What’s offered**
-
-- Department of Education (DepEd) **Kindergarten Program** for **5-year-old children**, implemented in public elementary schools.
-- Focus on school readiness: literacy, numeracy, and social skills.
-
-**Who can join**
-
-- Children aged **5 years old** by the opening of the school year.
-- Priority for residents within the school’s catchment area.
-
-**Requirements (typical DepEd)**
-
-- Child’s **birth certificate** (PSA).
-- Proof of residency (Barangay Certificate).
-- 2×2 ID photo of the child.
-- Accomplished **DepEd Kindergarten Registration Form** (given at school).
-
-**How to enroll**
-
-1. Proceed to the **nearest public elementary school** during the announced **DepEd early registration** or regular enrollment period.
-2. Submit required documents to the school registrar.
-3. Attend orientation for parents and guardians.
-
-**Cost:** Free (government-funded).
-
----
-
-## Contact & Updates
-
-- **Barangay Daycare Centers** — Enrollment schedules and requirements are usually announced by barangay officials.
-- **City Social Welfare and Development Office (CSWDO)** — Oversees daycare programs.
-- **DepEd Lapu-Lapu City Division** — Manages public kindergarten enrollment.
-
----
-
-### Quick Tips
-
-- Enroll early — daycare and preschool slots may be limited per barangay/school.
-- Keep copies of your child’s **birth certificate** and **barangay certificate** ready.
-- Attend parent orientations to understand your role in supporting your child’s early education.
+**Sources:** [Iloilo City Government directory](https://iloilocity.gov.ph/iloilo-city-government-directory/) · [DSWD Field Office 6](https://fo6.dswd.gov.ph/?p=94) · [RISEable SPED and Early Intervention Center](https://www.clinicfinderph.com/clinic/riseable-sped-and-early-intervention-center-iloilo-city-lgu-cswdo-iloilo-city)
